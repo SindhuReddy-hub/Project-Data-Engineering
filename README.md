@@ -34,6 +34,7 @@ EGLL 171050Z 25015KT 9999 SCT025 07/03 Q1018 NOSIG
   - Apache NiFi / Airflow
 
 ### 2. Parsing and Cleaning
+- METARs are cryptic — you need to parse them into structured formats
 - Libraries: `python-metar`, regex parsers
 - Extracted fields: station code, time, wind, visibility, temp, pressure, etc.
 
