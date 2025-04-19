@@ -182,6 +182,9 @@ Install the following:
 git clone https://github.com/SindhuReddy-hub/Project-Data-Engineering.git
 cd Project-Data-Engineering
 
+![image](https://github.com/user-attachments/assets/e6e3c1ed-e5eb-4bb4-9af5-f224b2e45192)
+
+
 # 2. Setup virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\activate
