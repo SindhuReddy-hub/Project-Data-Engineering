@@ -140,7 +140,7 @@ Interactive charts covering:
 🔗 [Looker Report](https://lookerstudio.google.com/u/0/reporting/ef5cab41-deeb-498e-95de-c29cf52a3fe6/page/lk6ND)
 
 ---
-## Locker Results
+## Looker Results
 
 ![image](https://github.com/user-attachments/assets/0d68b182-baca-4dab-96ae-8f771deafd30)
 
