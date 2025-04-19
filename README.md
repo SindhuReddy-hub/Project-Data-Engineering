@@ -88,6 +88,9 @@ An end-to-end educational pipeline to process and forecast aviation weather usin
 - 🌐 Streamlit web app for real-time data, visualization, and forecasts.
 
 ---
+## Architecture Diagram
+
+
 ![image](https://github.com/user-attachments/assets/8d576e00-2da6-41b4-8441-110471253437)
 
 ## 🧩 Key Components
@@ -137,6 +140,9 @@ Interactive charts covering:
 🔗 [Looker Report](https://lookerstudio.google.com/u/0/reporting/ef5cab41-deeb-498e-95de-c29cf52a3fe6/page/lk6ND)
 
 ---
+## Locker Results
+
+![image](https://github.com/user-attachments/assets/0d68b182-baca-4dab-96ae-8f771deafd30)
 
 ## 🗃️ Data Pipeline Summary
 
