@@ -1,6 +1,16 @@
 
 # ✈️ METAR Weather Analysis: A Data Engineering and Machine Learning Approach
-
+<p align="center">
+  <a href="#🔧 Technologies Used">Technologies</a> •
+  <a href="#about-the-project">About the project</a> •
+  <a href="#conceptual-architecture">Conceptual architecture</a> •
+  <a href="#👉-phase-1">Phase 1</a> •
+  <a href="#👉-phase-2">Phase 2</a> •
+  <a href="#👉-phase-3-final-stage">Phase 3 - Final Stage</a> •
+  <a href="#data-source">Data source</a> •
+  <a href="#📊-looker-report">Looker report</a> •
+  <a href="#🛠️-setup">Setup</a> 
+</p>
 ## 🔧 Technologies Used
 
 - Google Cloud Dataproc
