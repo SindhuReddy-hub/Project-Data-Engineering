@@ -179,8 +179,8 @@ Install the following:
 
 ```bash
 # 1. Clone the repo
-git clone <repository_link>
-cd <project_folder>
+git clone https://github.com/SindhuReddy-hub/Project-Data-Engineering.git
+cd Project-Data-Engineering
 
 # 2. Setup virtual environment
 python -m venv venv
