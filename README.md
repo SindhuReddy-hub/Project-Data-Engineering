@@ -88,6 +88,7 @@ An end-to-end educational pipeline to process and forecast aviation weather usin
 - 🌐 Streamlit web app for real-time data, visualization, and forecasts.
 
 ---
+![image](https://github.com/user-attachments/assets/8d576e00-2da6-41b4-8441-110471253437)
 
 ## 🧩 Key Components
 
