@@ -1,0 +1,7 @@
+{
+    "network": ["ES__ASOS"],
+    "start_year": 2025,
+    "start_month": 4,
+    "start_day": 19,
+    "batch_bucket_name": "batch-metar-bucket-2"
+}
