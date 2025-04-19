@@ -196,7 +196,8 @@ pip install -r requirements.txt
 ### ☁️ Google Cloud Configuration
 
 ```bash
-gcloud config set project <your_project>
+gcloud config set project Project-Data-Engineering
+
 gcloud auth login
 ```
 
@@ -207,7 +208,7 @@ gcloud auth login
 Edit `terraform.tfvars`:
 
 ```hcl
-project = "<your_project>"
+project = "Project-Data-Engineering"
 ```
 
 Deploy:
