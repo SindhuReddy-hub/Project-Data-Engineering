@@ -284,3 +284,11 @@ Trigger Stage 2:
 ```bash
 python deployments_run.py --stage="S2"
 ```
+## 📚 References
+Aviation Weather Center. (n.d.). METARs Aviation Routine Weather Report. National Oceanic and Atmospheric Administration. https://aviationweather.gov/metar
+
+Apache Spark. (n.d.). Unified analytics engine for large-scale data processing. https://spark.apache.org/
+
+Google Cloud. (n.d.). Dataproc: Managed Apache Spark and Hadoop service. https://cloud.google.com/dataproc
+
+Google Cloud. (n.d.). BigQuery: Serverless, highly scalable, multi-cloud data warehouse. https://cloud.google.com/
