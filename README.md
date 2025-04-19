@@ -176,13 +176,13 @@ Install the following:
 ---
 
 ### 🧬 Setup Instructions
+![image](https://github.com/user-attachments/assets/654cbc5a-0836-4c79-bf51-a080c0f936b6)
 
 ```bash
 # 1. Clone the repo
 git clone https://github.com/SindhuReddy-hub/Project-Data-Engineering.git
 cd Project-Data-Engineering
 
-![image](https://github.com/user-attachments/assets/e6e3c1ed-e5eb-4bb4-9af5-f224b2e45192)
 
 
 # 2. Setup virtual environment
