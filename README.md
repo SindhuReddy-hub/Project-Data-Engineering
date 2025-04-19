@@ -93,7 +93,7 @@ An end-to-end educational pipeline to process and forecast aviation weather usin
 
 
 ![image](https://github.com/user-attachments/assets/8d576e00-2da6-41b4-8441-110471253437)
->>>>>>> e456e55b258f79714abffbff65ffb216b2d1e931
+
 
 ## 🧩 Key Components
 
@@ -142,7 +142,7 @@ Interactive charts covering:
 🔗 [Looker Report](https://lookerstudio.google.com/u/0/reporting/ef5cab41-deeb-498e-95de-c29cf52a3fe6/page/lk6ND)
 
 ---
-## Looker Results
+## 📊 Looker Results
 
 ![image](https://github.com/user-attachments/assets/0d68b182-baca-4dab-96ae-8f771deafd30)
 
