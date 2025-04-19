@@ -34,6 +34,7 @@ EGLL 171050Z 25015KT 9999 SCT025 07/03 Q1018 NOSIG
   - Apache NiFi / Airflow
 
 ### 2. Parsing and Cleaning
+- METARs are cryptic — you need to parse them into structured formats
 - Libraries: `python-metar`, regex parsers
 - Extracted fields: station code, time, wind, visibility, temp, pressure, etc.
 
@@ -87,7 +88,14 @@ An end-to-end educational pipeline to process and forecast aviation weather usin
 - 🌐 Streamlit web app for real-time data, visualization, and forecasts.
 
 ---
+<<<<<<< HEAD
 ![alt text](image.png)
+=======
+## Architecture Diagram
+
+
+![image](https://github.com/user-attachments/assets/8d576e00-2da6-41b4-8441-110471253437)
+>>>>>>> e456e55b258f79714abffbff65ffb216b2d1e931
 
 ## 🧩 Key Components
 
@@ -136,6 +144,9 @@ Interactive charts covering:
 🔗 [Looker Report](https://lookerstudio.google.com/u/0/reporting/ef5cab41-deeb-498e-95de-c29cf52a3fe6/page/lk6ND)
 
 ---
+## Looker Results
+
+![image](https://github.com/user-attachments/assets/0d68b182-baca-4dab-96ae-8f771deafd30)
 
 ## 🗃️ Data Pipeline Summary
 
@@ -169,11 +180,14 @@ Install the following:
 ---
 
 ### 🧬 Setup Instructions
+![image](https://github.com/user-attachments/assets/654cbc5a-0836-4c79-bf51-a080c0f936b6)
 
 ```bash
 # 1. Clone the repo
-git clone <repository_link>
-cd <project_folder>
+git clone https://github.com/SindhuReddy-hub/Project-Data-Engineering.git
+cd Project-Data-Engineering
+
+
 
 # 2. Setup virtual environment
 python -m venv venv
@@ -186,7 +200,8 @@ pip install -r requirements.txt
 ### ☁️ Google Cloud Configuration
 
 ```bash
-gcloud config set project <your_project>
+gcloud config set project Project-Data-Engineering
+
 gcloud auth login
 ```
 
@@ -197,7 +212,7 @@ gcloud auth login
 Edit `terraform.tfvars`:
 
 ```hcl
-project = "<your_project>"
+project = "Project-Data-Engineering"
 ```
 
 Deploy:
